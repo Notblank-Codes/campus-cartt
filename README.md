@@ -12,7 +12,7 @@ Most vendors around campus still rely on notebooks or scattered phone notes to k
 ## Target Audience
 - Independent student businesses (food, snacks, accessories, printing)
 - Vendors running pop-up stalls at campus events
-- Small dorm-based resellers and hostel sellers
+- Small dorm-based resellers and wholesalers
 
 **Example Persona:** A vendor doesn't have an organized record of their stock and daily sales, so they are always losing track og what's left in the invenyory and running into disagreements with customers over receipts. With CampusCart, this vendor could track stock accurately and issue instant receipts, reducing disputes and lost sales.
 
